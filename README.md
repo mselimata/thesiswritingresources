@@ -1,2 +1,2 @@
 # thesis writing resources
-compiled resources for thesis writing 
+compiled list of  resources for thesis writing 
