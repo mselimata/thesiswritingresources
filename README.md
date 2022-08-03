@@ -25,3 +25,4 @@ Melvin Selim Atay (Call me Mel)
 
 # Acknowledgments
 
+This list started with the idea of helping a friend who is also writing PhD thesis. I am thankful to them and my amazing froends whom are unwittingly helping me as a support group, keeping my motivation high to pursue the defence of my PhD thesis.
