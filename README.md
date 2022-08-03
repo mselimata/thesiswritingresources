@@ -19,3 +19,9 @@ My thesis is being written in latex using mainly overleaf (with some local copie
 
 ### 8. [Extra] Motivation to keep going 
 
+# Contributors
+
+Melvin Selim Atay (Call me Mel)
+
+# Acknowledgments
+
