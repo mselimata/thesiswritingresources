@@ -21,7 +21,8 @@ This resource list is a living document guiding me through.
 ### 8. [Extra] Motivation to keep going 
 
 ### 9. Similar resources
-* [A thesi writing tips from a github user name cltl](https://github.com/cltl/ThesisTips#acknowledgments)
+* [Thesis writing tips from Computational Linguistics and & Text Mining Lab](https://github.com/cltl/ThesisTips#acknowledgments)
+
 # Contributors
 
 Melvin Selim Atay (Mel)
