@@ -16,13 +16,15 @@ This resource list is a living document guiding me through.
 
 ### 6. TOC editing
 
-### 7. Automation of reduntant stuff
+### 7. Automation
 
 ### 8. [Extra] Motivation to keep going 
 
+### 9. Similar resources
+* [A thesi writing tips from a github user name cltl](https://github.com/cltl/ThesisTips#acknowledgments)
 # Contributors
 
-Melvin Selim Atay (Call me Mel)
+Melvin Selim Atay (Mel)
 
 # Acknowledgments
 
