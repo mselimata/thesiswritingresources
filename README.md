@@ -24,6 +24,8 @@ This resource list is a living document guiding me through.
 * [latex referencing guide, bibtex references](https://web.uri.edu/engineering/student-support/thesisguide/bibliography/) 
 * [zotero link to the overleaf](https://www.overleaf.com/learn/how-to/How_to_link_your_Overleaf_account_to_Mendeley_and_Zotero)
 * [lib guide & citing bibtex](https://libguides.mit.edu/cite-write/bibtex)
+
+* [zotero](https://libguides.mit.edu/cite-write/zotero)
 ### 3. Resources for graphs/pictures
 
 ### 4. Resources for tables
@@ -44,7 +46,9 @@ This resource list is a living document guiding me through.
 * [Thesis writing tips from Computational Linguistics and & Text Mining Lab](https://github.com/cltl/ThesisTips#acknowledgments)
 
 * [How to write a good PhD thesis and survive the viva, Stefan Ruger](http://people.kmi.open.ac.uk/stefan/thesis-writing.pdf)
-
+### 10 Templates
+Some instituons are providing or demanding strict templates for thesis which also helps to styling and referencing. 
+* [The template from METU](https://fbe.metu.edu.tr/en/thesis-writing-process)
 # Contributors
 
 Melvin Selim Atay (Mel)
