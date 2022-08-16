@@ -46,9 +46,12 @@ This resource list is a living document guiding me through.
 * [Thesis writing tips from Computational Linguistics and & Text Mining Lab](https://github.com/cltl/ThesisTips#acknowledgments)
 
 * [How to write a good PhD thesis and survive the viva, Stefan Ruger](http://people.kmi.open.ac.uk/stefan/thesis-writing.pdf)
+
 ### 10 Templates
-Some instituons are providing or demanding strict templates for thesis which also helps to styling and referencing. 
+Some instituons have templates to ease the process of thesis writing. There might be also strict guidelines for accepted referencing formats. 
+I find it useful to have such resources available. 
 * [The template from METU](https://fbe.metu.edu.tr/en/thesis-writing-process)
+
 # Contributors
 
 Melvin Selim Atay (Mel)
