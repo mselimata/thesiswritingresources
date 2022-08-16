@@ -23,11 +23,16 @@ This resource list is a living document guiding me through.
 ### 2. Resources for  reference managers (referencing & editing references)
 * [latex referencing guide, bibtex references](https://web.uri.edu/engineering/student-support/thesisguide/bibliography/) 
 * [zotero link to the overleaf](https://www.overleaf.com/learn/how-to/How_to_link_your_Overleaf_account_to_Mendeley_and_Zotero)
+* [lib guide & citing bibtex](https://libguides.mit.edu/cite-write/bibtex)
 ### 3. Resources for graphs/pictures
 
 ### 4. Resources for tables
 
-### 5. Resources for indexing and styling
+### 5. Resources for LaTeX indexing and styling
+* [LaTeX guide](https://libguides.lib.rochester.edu/referencemanagers/LaTex)
+* [Step by step latex](https://typeset.io/resources/learn-latex-beginners-step-by-step-guide/)
+
+
 
 ### 6. TOC editing
 
