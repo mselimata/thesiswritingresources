@@ -26,6 +26,8 @@ This resource list is a living document guiding me through.
 * [lib guide & citing bibtex](https://libguides.mit.edu/cite-write/bibtex)
 
 * [zotero](https://libguides.mit.edu/cite-write/zotero)
+
+* [zotero guide](https://libguides.rhul.ac.uk/referencing/Zoterolatex)
 ### 3. Resources for graphs/pictures
 
 ### 4. Resources for tables
@@ -51,6 +53,8 @@ This resource list is a living document guiding me through.
 Some instituons have templates to ease the process of thesis writing. There might be also strict guidelines for accepted referencing formats. 
 I find it useful to have such resources available. 
 * [The template from METU](https://fbe.metu.edu.tr/en/thesis-writing-process)
+
+* [FAQ-METU-TR](https://fbe.metu.edu.tr/tr/tez-yazim-sureci)
 
 # Contributors
 
