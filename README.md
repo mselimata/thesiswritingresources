@@ -30,6 +30,12 @@ This resource list is a living document guiding me through.
 * [zotero](https://libguides.mit.edu/cite-write/zotero)
 
 * [zotero guide](https://libguides.rhul.ac.uk/referencing/Zoterolatex)
+
+* [jabref](https://libguides.mit.edu/ld.php?content_id=35962837)
+
+* [zotero usage for better bibtex](https://retorque.re/zotero-better-bibtex/citing/cayw/)
+
+* [visual studio latex zotero citation guide](https://martinandreasandersen.com/guides/a-nerds-guide-to-writing-papers-for-au/)
 ### 3. Resources for graphs/pictures
 
 ### 4. Resources for tables
@@ -37,8 +43,8 @@ This resource list is a living document guiding me through.
 ### 5. Resources for LaTeX indexing and styling
 * [LaTeX guide](https://libguides.lib.rochester.edu/referencemanagers/LaTex)
 * [Step by step latex](https://typeset.io/resources/learn-latex-beginners-step-by-step-guide/)
-
-
+* [getting started with latex](https://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/)
+* [latex wikibooks](https://en.wikibooks.org/wiki/LaTeX)
 
 ### 6. TOC editing
 
