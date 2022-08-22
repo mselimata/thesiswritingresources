@@ -40,6 +40,9 @@ This resource list is a living document guiding me through.
 
 #### Conclusions
 -->
+
+
+
 ### 2. Resources for  reference managers (referencing & editing references)
 * [latex referencing guide, bibtex references](https://web.uri.edu/engineering/student-support/thesisguide/bibliography/) 
 
@@ -57,7 +60,8 @@ This resource list is a living document guiding me through.
 
 * [visual studio latex zotero citation guide](https://martinandreasandersen.com/guides/a-nerds-guide-to-writing-papers-for-au/)
 ### 3. Resources for graphs/pictures
-
+x
+<!--- MURAT/SELIM--->
 
 ### 4. Resources for tables
 
