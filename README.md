@@ -9,6 +9,24 @@ This resource list is a living document guiding me through.
 
 ### 1. Resources for writing 
 #### Section by section resources 
+* [a cliché motivation](https://www.eliteediting.com.au/how-do-i-motivate-myself-to-write-my-thesis/)
+
+* [Andy Stapleton's odd guide](https://www.youtube.com/watch?v=BhtD7657OIU)
+
+* [dissertation motivation](https://studentnews.manchester.ac.uk/2022/06/16/keeping-motivated-for-your-dissertation/)
+
+* [some applicable and inspiring tips from famous fiction writers](https://www.theguardian.com/books/2010/feb/20/ten-rules-for-writing-fiction-part-one)
+
+* [reddit thesis writing](https://www.reddit.com/r/AskAcademia/comments/dgh0fn/how_to_deal_with_low_motivation_when_writing_a/)
+
+* [8 motivational tips](https://www.insidehighered.com/advice/2020/09/01/advice-how-get-and-stay-motivated-write-your-dissertation-opinion)
+
+* [another cliché](https://www.academic-consulting.co.nz/blog/thesis-motivation-tips-for-a-pandemic.php)
+
+* [writing everything in two months](https://wordsru.com/blog/2015/08/13/how-to-write-a-doctoral-dissertation-in-two-months/)
+
+* [writing in three months](https://phd.academy/blog/how-i-wrote-a-phd-thesis-in-3-months)
+
 
 #### Introduction
 
@@ -38,7 +56,9 @@ This resource list is a living document guiding me through.
 * [visual studio latex zotero citation guide](https://martinandreasandersen.com/guides/a-nerds-guide-to-writing-papers-for-au/)
 ### 3. Resources for graphs/pictures
 
+
 ### 4. Resources for tables
+
 
 ### 5. Resources for LaTeX indexing and styling
 * [LaTeX guide](https://libguides.lib.rochester.edu/referencemanagers/LaTex)
