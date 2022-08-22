@@ -30,7 +30,7 @@ This resource list is a living document guiding me through.
 * [writing in three months](https://phd.academy/blog/how-i-wrote-a-phd-thesis-in-3-months)
 
 * [sad facts indulgence](https://thesiswhisperer.com/2014/09/17/im-writing-a-book-no-one-will-read-and-other-reasons-the-phd-can-get-you-down/)
-#### Introduction
+<!---  #### Introduction
 
 #### Motivation
 
@@ -39,7 +39,7 @@ This resource list is a living document guiding me through.
 #### Experiments/Methods
 
 #### Conclusions
-
+-->
 ### 2. Resources for  reference managers (referencing & editing references)
 * [latex referencing guide, bibtex references](https://web.uri.edu/engineering/student-support/thesisguide/bibliography/) 
 
