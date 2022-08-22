@@ -19,6 +19,8 @@ This resource list is a living document guiding me through.
 
 * [reddit thesis writing](https://www.reddit.com/r/AskAcademia/comments/dgh0fn/how_to_deal_with_low_motivation_when_writing_a/)
 
+* [another reddit](https://www.reddit.com/r/GradSchool/comments/mssck2/cant_find_the_motivation_to_write_my_thesis/)
+
 * [8 motivational tips](https://www.insidehighered.com/advice/2020/09/01/advice-how-get-and-stay-motivated-write-your-dissertation-opinion)
 
 * [another cliché](https://www.academic-consulting.co.nz/blog/thesis-motivation-tips-for-a-pandemic.php)
@@ -27,7 +29,7 @@ This resource list is a living document guiding me through.
 
 * [writing in three months](https://phd.academy/blog/how-i-wrote-a-phd-thesis-in-3-months)
 
-
+* [sad facts indulgence](https://thesiswhisperer.com/2014/09/17/im-writing-a-book-no-one-will-read-and-other-reasons-the-phd-can-get-you-down/)
 #### Introduction
 
 #### Motivation
