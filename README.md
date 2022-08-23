@@ -145,8 +145,13 @@ This resource list is a living document guiding me through.
 
 * [latex thesis guide](https://fis.uni-bamberg.de/bitstream/uniba/48428/3/fisba48428.pdf)
 
-* [nomenclature packge](http://cs.brown.edu/about/system/managed/latex/doc/nomencl.pdf)
+* [nomenclature package](http://cs.brown.edu/about/system/managed/latex/doc/nomencl.pdf)
 
+* [manual backing up](https://medium.com/@ahujamoh/my-thesis-w%CC%B6r%CC%B6i%CC%B6t%CC%B6i%CC%B6n%CC%B6g%CC%B6-backing-up-process-d3d537b93e08)
+
+* [overleaf github](https://jamesthorne.com/blog/backing-up-overleaf-content-to-github/)
+
+* [github overleaf official](https://www.overleaf.com/learn/how-to/Using_Git_and_GitHub)
 ### 6. Templates
 Some instituons have templates to ease the process of thesis writing. There might be also strict guidelines for accepted referencing formats. 
 I find it useful to have such resources available. 
