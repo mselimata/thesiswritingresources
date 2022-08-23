@@ -5,9 +5,12 @@ This resource list is a living document guiding me through.
 
 ## Compiled list of  resources for thesis writing 
 ### 0. Ideeas 
-* 
+* Using a project tracking tool writing down daily goals and checking them regularly seems like the most common and working strategy. 
+* Creating a private repo at Github and working there as a project would be my way of completing my thesis.
+* My local writing tools are miktex compiler local copy and overleaf, syncing through github. 
+* Projects section has kanban board and I know it is useful. 
 
-### 1. Resources for writing 
+### 1. Resources for writing & motivation
 #### Section by section resources 
 * [a cliché motivation](https://www.eliteediting.com.au/how-do-i-motivate-myself-to-write-my-thesis/)
 
@@ -29,7 +32,9 @@ This resource list is a living document guiding me through.
 
 * [writing in three months](https://phd.academy/blog/how-i-wrote-a-phd-thesis-in-3-months)
 
-* [sad facts indulgence](https://thesiswhisperer.com/2014/09/17/im-writing-a-book-no-one-will-read-and-other-reasons-the-phd-can-get-you-down/)
+* [quora thesis writing guide](https://www.quora.com/Is-it-possible-to-write-PHD-thesis-under-3-months)
+
+* [some sad truth](https://thesiswhisperer.com/2014/09/17/im-writing-a-book-no-one-will-read-and-other-reasons-the-phd-can-get-you-down/)
 <!---  #### Introduction
 
 #### Motivation
@@ -59,31 +64,66 @@ This resource list is a living document guiding me through.
 * [zotero usage for better bibtex](https://retorque.re/zotero-better-bibtex/citing/cayw/)
 
 * [visual studio latex zotero citation guide](https://martinandreasandersen.com/guides/a-nerds-guide-to-writing-papers-for-au/)
-### 3. Resources for graphs/pictures
-x
+
+* [stackexchange tips for quick thesis writing](https://academia.stackexchange.com/questions/122616/how-to-write-a-phd-thesis-in-three-months)
+### 3. Resources for tables, graphs/pictures, illustrations
+
 <!--- MURAT/SELIM--->
+* [figure formatting](https://www.unlv.edu/sites/default/files/page_files/27/OrganizationThesisDissertation-ListOfFigures.pdf)
 
-### 4. Resources for tables
+* [tables figures illustrations tips](https://www.grad.ubc.ca/current-students/dissertation-thesis-preparation/tables-figures-illustrations)
 
+* [lovely plots](https://pythondig.com/r/lovelyplots-is-a-repository-containing-matplotlib-style-sheets-to-nicely-format-figures-for-scientific-papers)
 
-### 5. Resources for LaTeX indexing and styling
+* [science plots](https://github.com/garrettj403/SciencePlots)
+
+* [reddit figure discussion](https://www.reddit.com/r/learnpython/comments/ila9xp/nice_plots_for_scientific_papers_theses_and/)
+
+* [scientific publcations with seaborn](https://towardsdatascience.com/making-publication-quality-figures-in-python-part-i-fig-and-axes-d86c3903ad9b)
+
+* [Scientific Publication Plots with Pylab](https://towardsdatascience.com/an-introduction-to-making-scientific-publication-plots-with-python-ea19dfa7f51e)
+
+* [matplotlib latex](https://jwalton.info/Embed-Publication-Matplotlib-Latex/)
+* [matplotlib figure making](https://www.imperial.ac.uk/study/pg/graduate-school/imperial-community-courses/courses/research-computing-plotting-in-python-with-matplotlib/)
+* [color selecting](https://ranocha.de/blog/colors/)
+
+* [basic guide on figures](https://www.ilovephd.com/5-free-data-analysis-and-graph-plotting-software-for-thesis/)
+
+* [msyplotlib & latex](https://ercanozturk.org/2017/12/16/python-matplotlib-plots-in-latex/)
+
+### 4. Resources for LaTeX indexing and styling
+
 * [LaTeX guide](https://libguides.lib.rochester.edu/referencemanagers/LaTex)
 * [Step by step latex](https://typeset.io/resources/learn-latex-beginners-step-by-step-guide/)
 * [getting started with latex](https://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/)
 * [latex wikibooks](https://en.wikibooks.org/wiki/LaTeX)
 
-### 6. TOC editing
+### 5. TOC, appendix, refering to sections, figures, appendix
+* [overlaf TOC](https://www.overleaf.com/learn/latex/Table_of_contents)
 
+* [overleaf general thesis](https://www.overleaf.com/learn/latex/How_to_Write_a_Thesis_in_LaTeX_(Part_1)%3A_Basic_Structure)
+
+* [toc latex](http://latexref.xyz/Table-of-contents-etc_002e.html)
+
+* [Tips on appendix](http://www.sbe.boun.edu.tr/files/t7_appendix_tables_and_figures_2019.pdf)
+
+* [minitoc documentation](http://www.ctex.org/documents/packages/contents/minitoc.pdf)
+
+* []()
+
+* []()
 ### 7. Automation
 
-### 8. [Extra] Motivation to keep going 
-
-### 9. Similar resources
+### 8. Similar resources
 * [Thesis writing tips from Computational Linguistics and & Text Mining Lab](https://github.com/cltl/ThesisTips#acknowledgments)
 
 * [How to write a good PhD thesis and survive the viva, Stefan Ruger](http://people.kmi.open.ac.uk/stefan/thesis-writing.pdf)
 
-### 10 Templates
+ * [latex with matplotlib](https://ercanozturk.org/2017/12/16/python-matplotlib-plots-in-latex/)
+
+
+
+### 9. Templates
 Some instituons have templates to ease the process of thesis writing. There might be also strict guidelines for accepted referencing formats. 
 I find it useful to have such resources available. 
 * [The template from METU](https://fbe.metu.edu.tr/en/thesis-writing-process)
