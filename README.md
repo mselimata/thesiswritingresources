@@ -152,6 +152,7 @@ This resource list is a living document guiding me through.
 * [overleaf github](https://jamesthorne.com/blog/backing-up-overleaf-content-to-github/)
 
 * [github overleaf official](https://www.overleaf.com/learn/how-to/Using_Git_and_GitHub)
+
 ### 6. Templates
 Some instituons have templates to ease the process of thesis writing. There might be also strict guidelines for accepted referencing formats. 
 I find it useful to have such resources available. 
