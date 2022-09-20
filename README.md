@@ -161,8 +161,16 @@ I find it useful to have such resources available.
 
 * [FAQ-METU-TR](https://fbe.metu.edu.tr/tr/tez-yazim-sureci)
 
-# Contributors
 
+
+### 7. Debugging links
+Here I dump the links of the solutions which helped me to solve several bugs happening along the way.
+
+* [antsRegistrationSyNQuick.sh: command not found](https://sourceforge.net/p/advants/discussion/840261/thread/f8d7dd88/)
+
+* [Node serilaization](https://stackoverflow.com/questions/52117145/slurm-job-script-for-multiple-nodes)
+
+# Contributors
 Melvin Selim Atay (Mel)
 
 # Acknowledgments
