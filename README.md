@@ -71,7 +71,7 @@ This resource list is a living document guiding me through.
 
 ### 3. Resources for tables, graphs/pictures, illustrations
 
-<!--- MURAT/SELIM--->
+
 * [figure formatting](https://www.unlv.edu/sites/default/files/page_files/27/OrganizationThesisDissertation-ListOfFigures.pdf)
 
 * [tables figures illustrations tips](https://www.grad.ubc.ca/current-students/dissertation-thesis-preparation/tables-figures-illustrations)
@@ -169,6 +169,8 @@ Here I dump the links of the solutions which helped me to solve several bugs hap
 * [antsRegistrationSyNQuick.sh: command not found](https://sourceforge.net/p/advants/discussion/840261/thread/f8d7dd88/)
 
 * [Node serilaization](https://stackoverflow.com/questions/52117145/slurm-job-script-for-multiple-nodes)
+
+* [Understanding TRUBA & SLURM guide](https://mselimata.github.io/posts/2022/10/truba/)
 
 # Contributors
 Melvin Selim Atay (Mel)
