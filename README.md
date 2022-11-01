@@ -31,6 +31,8 @@ This resource list is a living document guiding me through.
 
 * [writing everything in two months](https://wordsru.com/blog/2015/08/13/how-to-write-a-doctoral-dissertation-in-two-months/)
 
+* [thesis writing in 12 months](https://twitter.com/MushtaqBilalPhD/status/1587339090948935680?s=20&t=b0cLRqFCINsu5gMufLnNWQ)
+
 * [writing in three months](https://phd.academy/blog/how-i-wrote-a-phd-thesis-in-3-months)
 
 * [quora thesis writing guide](https://www.quora.com/Is-it-possible-to-write-PHD-thesis-under-3-months)
